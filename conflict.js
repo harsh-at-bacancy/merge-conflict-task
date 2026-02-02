@@ -1,3 +1,5 @@
 this is the first ljne
 tyhuj
-uybiuh iiuh --- conflict aavse ahiya!!!
+This is the first line
+this is the second line
+conflict should occur here
